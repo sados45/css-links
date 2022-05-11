@@ -1,0 +1,22 @@
+
+
+a{
+    text-decoration:none;
+}
+
+
+a:active {
+    color:blue;}
+a:visited{
+    color:red;
+}
+a:hover{
+    font-size:larger;
+    color:green;
+}
+
+.list{
+    border:1px solid blue;
+    list-style-type:disc;
+    list-style-position: inside;/*outside yapilirsa basindaki noktalari almaz.*/
+}
